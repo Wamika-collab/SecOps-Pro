@@ -113,4 +113,4 @@ pie title SecOps-Pro Exam Focus
 
 ## Preparation Resource
 
-SecOps analysts preparing for the exam can test their incident response knowledge using the [SecOps-Pro exam](https://certsclub.com/palo-alto-networks/secops-pro-demo-practice-questions) practice questions to ensure readiness across Cortex XSOAR playbooks and XDR analytics.
+SecOps analysts preparing for the exam can test their incident response knowledge using the [SecOps-Pro exam](https://www.certsclub.com) practice questions to ensure readiness across Cortex XSOAR playbooks and XDR analytics.
